@@ -1,0 +1,24 @@
+﻿namespace Builder
+{
+    public class ImpostoICKP : TemplateDeImpostoCondicional
+    {
+     
+
+        public override bool DeveUsarMaximaTaxacao(Orcamento orcamento)
+        {
+            return orcamento.Valor > 500;
+        }
+
+        public override double MaximaTaxacao(Orcamento orcamento)
+        {
+            return orcamento.Valor * 0.1;
+        }
+
+        public override double MinimaTaxacao(Orcamento orcamento)
+        {
+            return orcamento.Valor * 0.06;
+        }
+
+        
+    }
+}

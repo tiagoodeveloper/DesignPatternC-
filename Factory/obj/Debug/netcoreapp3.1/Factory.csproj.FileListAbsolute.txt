@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\Strategy\Factory\bin\Debug\netcoreapp3.1\Factory.exe
+C:\Users\User\source\repos\Strategy\Factory\obj\Debug\netcoreapp3.1\Factory.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Strategy\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Strategy\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfo.cs

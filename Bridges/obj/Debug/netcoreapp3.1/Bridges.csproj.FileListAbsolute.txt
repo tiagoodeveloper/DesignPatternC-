@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Strategy\Bridges\bin\Debug\netcoreapp3.1\Bridges.exe
+C:\Users\User\source\repos\Strategy\Bridges\bin\Debug\netcoreapp3.1\Bridges.deps.json
+C:\Users\User\source\repos\Strategy\Bridges\bin\Debug\netcoreapp3.1\Bridges.runtimeconfig.json
+C:\Users\User\source\repos\Strategy\Bridges\bin\Debug\netcoreapp3.1\Bridges.runtimeconfig.dev.json
+C:\Users\User\source\repos\Strategy\Bridges\bin\Debug\netcoreapp3.1\Bridges.dll
+C:\Users\User\source\repos\Strategy\Bridges\bin\Debug\netcoreapp3.1\Bridges.pdb
+C:\Users\User\source\repos\Strategy\Bridges\obj\Debug\netcoreapp3.1\Bridges.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Strategy\Bridges\obj\Debug\netcoreapp3.1\Bridges.AssemblyInfo.cs
+C:\Users\User\source\repos\Strategy\Bridges\obj\Debug\netcoreapp3.1\Bridges.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Strategy\Bridges\obj\Debug\netcoreapp3.1\Bridges.dll
+C:\Users\User\source\repos\Strategy\Bridges\obj\Debug\netcoreapp3.1\Bridges.pdb
+C:\Users\User\source\repos\Strategy\Bridges\obj\Debug\netcoreapp3.1\Bridges.genruntimeconfig.cache
+C:\Users\User\source\repos\Strategy\Bridges\obj\Debug\netcoreapp3.1\Bridges.csprojAssemblyReference.cache
